@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require './libwyag.rb'
+
+if __FILE__ == $0
+  main
+end
